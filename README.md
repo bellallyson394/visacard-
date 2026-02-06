@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack FastAPI Template
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3A%22Test+Docker+Compose%22" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test%20Docker%20Compose/badge.svg" alt="Test Docker Compose"></a>
@@ -231,3 +232,7 @@ Check the file [release-notes.md](./release-notes.md).
 ## License
 
 The Full Stack FastAPI Template is licensed under the terms of the MIT license.
+=======
+# visacard-
+创建一个u卡平台，能管理和发行visa卡，看用户资料，消耗金额等
+>>>>>>> dfeb2c02ca23f485102560ab8bf5e3334e3d9585
